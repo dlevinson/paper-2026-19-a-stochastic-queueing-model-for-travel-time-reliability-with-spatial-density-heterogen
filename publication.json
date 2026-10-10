@@ -1,0 +1,17 @@
+{
+  "record_id": "paper-2026-19",
+  "title": "A stochastic queueing model for travel time reliability with spatial density heterogeneity",
+  "authors": "Yang Gao; David Levinson",
+  "year": 2026,
+  "type": "Journal article",
+  "venue": "Transportation Research Part B 211:103544 (September 2026)",
+  "doi": "10.1016/j.trb.2026.103544",
+  "version": "Published article; later version of the 2022 queueing-theory working paper (SSRN 10.2139/ssrn.4272509).",
+  "bytes": 11965281,
+  "sha256": "8a20ff35cc0951b9b8d8e407b16a2e131f45dd8f6131e7602b29041e6eed7a06",
+  "pdfPages": 31,
+  "sourceUrl": null,
+  "sourcePdfPages": null,
+  "path": "paper/1-s2.0-S0191261526001566-main.pdf",
+  "repository": "dlevinson/paper-2026-19-a-stochastic-queueing-model-for-travel-time-reliability-with-spatial-density-heterogeneity"
+}

@@ -1,0 +1,9 @@
+/*
+!/README.md
+!/publication.json
+!/SHA256SUMS
+!/.gitattributes
+!/.gitignore
+!/paper/
+/paper/*
+!/paper/1-s2.0-S0191261526001566-main.pdf
